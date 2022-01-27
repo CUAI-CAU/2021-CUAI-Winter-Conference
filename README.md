@@ -29,7 +29,7 @@
 |A| 감성 분석의 다양한 모델들에 대한 실용성 평가 |[Link](https://github.com/CUAI-CAU/Emotion_Recognition.git) |[pdf](paper/A.pdf) |[Youtube](https://youtu.be/SVxNRHOtctc) | |
 |B|한국 드라마 특성을 가진 챗봇 제작 |[Link](https://github.com/CUAI-CAU/KDrama-Chatbots.git) |[pdf](paper/B.pdf) |[Youtube](https://youtu.be/uacZWJj_8ZE) | |
 |C| LDA기반 감성분석과 AHP를 통한 코로나 피해 소상공인의 디지털 전환 전략|[Link](https://github.com/CUAI-CAU/Finance-TeamC.git) |[pdf](paper/C.pdf) |[Youtube](https://youtu.be/Mk952PoMvxY) | |
-|D| 키워드 기반 금융 정보 요약 서비스 구현|[Link]() |[pdf](paper/D.pdf) |[Youtube](https://youtu.be/2zSw_Njg2JE) | |
+|D| 키워드 기반 금융 정보 요약 서비스 구현|[Link](https://github.com/CUAI-CAU/2021-winter-D.git) |[pdf](paper/D.pdf) |[Youtube](https://youtu.be/2zSw_Njg2JE) | |
 |E|미제출(스마트 팩토리) | | | | |
 |F| Oh My Head|[Link](https://github.com/CUAI-CAU/OhMyHead.git) |[pdf](paper/F.pdf) |[Youtube](https://youtu.be/5zdlbDBsK5Y) | |
 |G| 노래 가사의 감성 분석을 활용한 음악 추천 시스템 |[Link](https://github.com/CUAI-CAU/Recommendation_Lyrics.git) |[pdf](paper/A.pdfG) |[Youtube](https://youtu.be/CUSO18dZJg8) | |
